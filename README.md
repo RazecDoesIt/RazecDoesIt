@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Julio a.k.a. Razec and I'm a student from 🇧🇷</h2>
 
 ###
 
@@ -34,12 +34,12 @@
 
 ###
 
-<br> 
-<img href="https://raw.githubusercontent.com/RazecDoesIt/RazecDoesIt/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-<br>
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/RazecDoesIt/RazecDoesIt/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RazecDoesIt.RazecDoesIt&left_color=darkslategray&right_color=purple&left_text=Total Visitors"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RazecDoesIt.RazecDoesIt&left_color=darkslategray&right_color=purple&left_text=Total Visitors"  />
 
 ###
