@@ -40,6 +40,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RazecDoesIt.RazecDoesIt&left_color=darkslategray&right_color=purple&left_text=Total Visitors"  />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RazecDoesIt.RazecDoesIt&left_color=darkslategray&right_color=purple&left_text=Total%20Visitors)
 
 ###
