@@ -34,9 +34,7 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/RazecDoesIt/RazecDoesIt/blob/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://raw.githubusercontent.com/RazecDoesIt/RazecDoesIt/blob/output/snake.svg)
 
 ###
 
