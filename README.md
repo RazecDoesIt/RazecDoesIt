@@ -35,7 +35,7 @@
 ###
 
 <br> 
-![Snake animation](https://github.com/RazecDoesIt/RazecDoesIt/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/razecdoesit/razecdoesit/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 ###
