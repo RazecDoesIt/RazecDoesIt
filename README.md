@@ -34,17 +34,12 @@
 
 ###
 
-<br clear="both">
 
-<img href="https://raw.githubusercontent.com/RazecDoesIt/RazecDoesIt/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RazecDoesIt.RazecDoesIt&left_color=darkslategray&right_color=purple&left_text=Total Visitors"  />
+![snake animation](https://raw.githubusercontent.com/RazecDoesIt/RazecDoesIt/blob/output/snake.svg)
 
 
 ###
 
-#![visitors](https://visitor-badge.laobi.icu/badge?page_id=RazecDoesIt.RazecDoesIt&left_color=darkslategray&right_color=purple&left_text=Total%20Visitors)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RazecDoesIt.RazecDoesIt&left_color=darkslategray&right_color=purple&left_text=Total%20Visitors)
 
 ###
