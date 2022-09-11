@@ -35,7 +35,7 @@
 ###
 
 
-![snake animation](https://raw.githubusercontent.com/RazecDoesIt/RazecDoesIt/blob/output/snake.svg)
+![snake animation](https://github.com/RazecDoesIt/RazecDoesIt/blob/output/snake.svg)
 
 
 ###
