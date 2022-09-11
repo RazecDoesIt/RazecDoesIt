@@ -40,6 +40,10 @@
 
 ###
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RazecDoesIt.RazecDoesIt&left_color=darkslategray&right_color=purple&left_text=Total%20Visitors)
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RazecDoesIt.RazecDoesIt&left_color=darkslategray&right_color=purple&left_text=Total%20Visitors" alt="Visitor's Badge"/>
+</p>
+
 
 ###
